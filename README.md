@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jamshid Yusuf Ismoil</h1>
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jamshidbek Ismoilov</h1>
 
 <h3>Go Developer from Uzbekistan  </h3>
 <br>
