@@ -15,7 +15,6 @@
 ##  My skills
 
 ![Go](https://img.shields.io/badge/golang-%2300f.svg?style=for-the-badge&logo=golang&logoColor=blue)
-![Microservices](https://img.shields.io/badge/microservice-%2300f.svg?style=for-the-badge&logo=microservice&logoColor=yellow)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
