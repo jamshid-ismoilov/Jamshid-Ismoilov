@@ -7,7 +7,6 @@
 ##  My social networks
 
 <a href="https://t.me/jamshidyusuf"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/jamshid.ismoil.9"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jamshid-ismoilov-b1577821a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br>
